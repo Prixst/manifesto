@@ -1,5 +1,6 @@
 Prixst Ecosystem Announcement
 This repository serves as the official, timestamped public declaration of the Prixst brand, operating system, and hardware ecosystem. 
+https://www.reddit.com/r/Prixst/s/gU3nMvy6Bc
 
     Brand Name: Prixst
     Core Products: prixstOS (Custom Arch Linux Distribution), integrated social media applications, and independent custom gaming hardware consoles.
